@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 1. We can add and delete task.
 2. Set reminder to the task.
+3. Used mock backend i.e., `json-server` to make it dynamic.
 
 ## Available Scripts
 
