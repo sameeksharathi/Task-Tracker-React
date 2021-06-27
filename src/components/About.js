@@ -4,7 +4,7 @@ const About = () => {
     return (
         <>
             <h4>Version 1.1.0</h4>
-            <Link to="/">Go Back</Link>
+            <Link to="/" className="about-link">Go Back</Link>
         </>
     )
 }
